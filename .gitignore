@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
+=======
+.DS_Store
+GPUCache
+debug.log
+>>>>>>> 1de174df47e97282f4b90ec02c84c9bf94449ec7
