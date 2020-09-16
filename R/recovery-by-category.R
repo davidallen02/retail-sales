@@ -1,7 +1,8 @@
 key <- readRDS("data/key.RDS")
 
 dat <- pamngr::join_sheets(c("rsbaauto",
-                           # "rsbafelc",
+                           "rsbafurn",
+                           "rsbaelec",
                            "rsbabuil",
                            "rsbafood",
                            "rsbahlth",
